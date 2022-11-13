@@ -1,0 +1,5 @@
+aiogram
+time
+asyncio
+beautifulsoup4
+selenium
